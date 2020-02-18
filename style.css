@@ -1,0 +1,39 @@
+ 
+body {
+    width: 1024;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-left: 300px;
+    background-color: rgb(163, 229, 231);
+}
+
+.myname {
+    display: flex;
+    justify-content: center;
+}
+
+.myphoto {
+    width: 150px;
+    margin: auto auto;
+}
+h1 {
+    width: 250px;
+    margin: auto auto;
+    text-align: center;
+}
+.photo {
+    border-radius: 100%;
+    box-shadow: 0 0 5px;
+}
+.contacts {
+    width: 380px;
+    margin: auto;
+    font-weight: bold;
+}
+.aboutme {
+    width: 700px;
+    margin: auto;
+}
+p.country {
+    font-style: italic;
+    text-align: center;
+}
